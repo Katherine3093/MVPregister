@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVPregister</string>
+    <string name="name_view">Nombre de usuario</string>
+    <string name="email_view">email</string>
+    <string name="password_view">contraseña</string>
+    <string name="password_repeat_view">Repetir contraseña</string>
+    <string name="register_view">Registrar</string>
+    <string name="success">registro!</string>
+    <string name="error">se a producido un error</string>
+</resources>
